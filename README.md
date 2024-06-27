@@ -1,5 +1,4 @@
-# PRODIGY_WD_01
-# Responsive Web Development Task
+# Responsive Web Development Task 01
 
 This repository contains the code for my first task during my web development internship. The objective was to create a responsive navigation bar with a button that changes the color mode of the entire page using HTML, CSS, and JavaScript.
 
