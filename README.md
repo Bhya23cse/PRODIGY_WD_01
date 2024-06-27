@@ -38,11 +38,11 @@ To run this project locally, follow these steps:
     cd PRODIGY_WD_01
     ```
 
-3. Open `navigation.html` in your web browser:
+3. Open `Navigation.html` in your web browser:
     ```bash
-    open navigation.html
+    open Navigation.html
     ```
-    or simply drag and drop the `navigation.html` file into your browser.
+    or simply drag and drop the `Navigation.html` file into your browser.
 
 ## Usage
 
